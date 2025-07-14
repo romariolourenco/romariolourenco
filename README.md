@@ -2,7 +2,7 @@
 
 I'm a product maker & manager, always learning to design, code, ship, and market — while helping others do the same.
 
-Product maker at [@sendible](https://www.sendible.com/) and building [@decibelgames](http://decibel.games) — previously at [@godaddy](https://www.godaddy.com/) and [@over](https://techcrunch.com/2020/01/29/godaddy-acquires-over/)
+Product maker at [@sendible](https://www.sendible.com/) and building [@decibelgames](http://decibel.games) — previously at [@godaddy](https://www.godaddy.com/) [@over](https://techcrunch.com/2020/01/29/godaddy-acquires-over/)
 
 
 #### 🗞️ Featured
