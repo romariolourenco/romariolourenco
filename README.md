@@ -2,7 +2,7 @@
 
 I'm a product maker & manager, always learning to design, code, ship, and market — while helping others do the same.
 
-Product maker at [@sendible](https://www.sendible.com/) and building [@decibelgames](http://decibel.games) — previously at [@godaddy](https://www.godaddy.com/) [@over](https://techcrunch.com/2020/01/29/godaddy-acquires-over/)
+Product maker at [@sendible](https://www.sendible.com/) and building [@decibelgames](http://decibel.games) [@lemmatic](http://lemmatic.app) — previously at [@godaddy](https://www.godaddy.com/) [@over](https://techcrunch.com/2020/01/29/godaddy-acquires-over/)
 
 
 #### 🗞️ Featured
@@ -13,6 +13,7 @@ Product maker at [@sendible](https://www.sendible.com/) and building [@decibelga
 #### ✍️ Working Notes
 
 [What fundraising took from me (and what it gave back)](https://romariolourenco.substack.com/p/what-fundraising-took-from-me-and) &nbsp;
+[Read less, think more: the case for curated attention.](https://lemmatic.app) &nbsp;
 
 
 #### ☎️ Connect
