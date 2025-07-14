@@ -12,8 +12,8 @@ Product maker at [@sendible](https://www.sendible.com/) and building [@decibelga
 
 #### ✍️ Working Notes
 
-[What fundraising took from me (and what it gave back)](https://romariolourenco.substack.com/p/what-fundraising-took-from-me-and) &nbsp;
-[Read less, think more: the case for curated attention.](https://lemmatic.app) &nbsp;
+- [What fundraising took from me (and what it gave back)](https://romariolourenco.substack.com/p/what-fundraising-took-from-me-and) &nbsp;
+- [Read less, think more: the case for curated attention](https://lemmatic.app) &nbsp;
 
 
 #### ☎️ Connect
